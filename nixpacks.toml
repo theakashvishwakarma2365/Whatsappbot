@@ -1,0 +1,6 @@
+[phases]
+setup = "npm install"
+build = "npm run build"
+
+[start]
+cmd = "npm start"
