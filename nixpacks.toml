@@ -6,3 +6,5 @@ commands = ["npm run build"]
 
 [start]
 cmd = "npm start"
+[build]
+base_image = "node:18"
